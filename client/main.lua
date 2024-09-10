@@ -146,8 +146,7 @@ local ProgressColor = {
     RED = 'red.5'
 }
 
----@param percent number
----@return string
+
 local function getProgressColor(percent)
     if percent >= 75 then
         return ProgressColor.GREEN
