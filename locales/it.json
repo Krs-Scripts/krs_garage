@@ -1,0 +1,23 @@
+{
+    "title_menu_impounds": "KRS SEQUESTRO",
+    "title_menu_garages": "KRS GARAGE",
+    "open_garages": "Apri Garage",
+    "open_impounds": "Apri Impound",
+    "save_vehicles": "Deposita i tuoi veicoli",
+    "title_notify": "Krs Garage",
+    "description_deposit_notify": "Hai depositato con successo il tuo veicolo",
+    "description_notproperty_notify": "Questo veicolo non è di tua proprietà",
+    "description_taken_notify": "Hai ritirato il veicolo dal tuo garage.",
+    "model_vehicles": "Modello",
+    "fuel_level": "Livello di Carburante %s",
+    "status_vehicles": "Stato",
+    "plate_vehicles": "Targa",
+    "body_health": "Carrozzeria",
+    "engine_health": "Salute del motore",
+    "price_impounds": "Prezzo $",
+    "picked_impounds_paid": "Hai ritirato il veicolo dall'impianto e hai pagato: $",
+    "vehicle_seized": "Veicolo sequestrato",
+    "vehicle_not_seized": "Veicolo non sequestrato",
+    "inside_the_garage": "All'interno del garage",
+    "out_of_the_garage": "Fuori dal garage"
+}

@@ -1,0 +1,25 @@
+{
+    "title_menu_impounds": "KRS IMPOUNDS",
+    "title_menu_garages": "KRS GARAGES",
+    "open_garages": "Open Garages",
+    "open_impounds": "Open Impounds",
+    "save_vehicles": "Deposit your vehicles",
+    "title_notify": "Krs Garage",
+    "description_deposit_notify": "You have successfully deposited your vehicle",
+    "description_notproperty_notify": "This vehicle is not your property",
+    "description_taken_notify": "You have taken the vehicle from your garage.",
+    "model_vehicles": "Model",
+    "fuel_level": "Fuel Level %s",
+    "status_vehicles": "Status",
+    "plate_vehicles": "Plate",
+    "body_health": "Body Health",
+    "engine_health": "Engine Health",
+    "price_impounds": "Price $",
+    "picked_impounds_paid": "You picked up the vehicle from the impound and paid: $",
+    "vehicle_seized": "Vehicle seized",
+    "vehicle_not_seized": "Vehicle not seized",
+    "inside_the_garage": "Inside the garage",
+    "out_of_the_garage": "Out of the garage"
+
+
+  }
