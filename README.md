@@ -7,8 +7,8 @@
 - ox_lib
 
 *Garage characteristics:*
-- Zone impounds
-- Zone garages
+- Zones impounds
+- Zones garages
 
 * Simple Garage
 
